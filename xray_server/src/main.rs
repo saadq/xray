@@ -1,6 +1,5 @@
 mod app;
 mod fs;
-mod fs2;
 mod json_lines_codec;
 mod messages;
 

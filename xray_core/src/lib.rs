@@ -1,6 +1,7 @@
 #[macro_use]
 extern crate lazy_static;
 extern crate futures;
+mod fs2;
 extern crate parking_lot;
 extern crate serde;
 #[macro_use]
